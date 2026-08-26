@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="docs/icon.png" alt="Racer" width="96" height="96" />
+  <h1>Racer</h1>
+  <p><em>A playful 3D marble race where 10 flag countries dodge Mario-Kart hazards around</em></p>
+  <p><a href="https://racer-bheng.vercel.app">Live</a> &middot; <a href="https://github.com/bunlongheng/racer">Repo</a> &middot; <a href="https://bunlongheng.com/projects?name=racer">Portfolio</a></p>
+  <img src="docs/social-preview.png" alt="Racer - preview" width="820" />
+</div>
+
+---
+
 # Racer
 
 > Pick a themed stage, set the laps, and watch 10 random countries race as glossy 3D flag marbles around an oval track - dodging hazards, jockeying the whole way - until a gold, silver, and bronze podium is crowned. A tiny, playful game for kids.
